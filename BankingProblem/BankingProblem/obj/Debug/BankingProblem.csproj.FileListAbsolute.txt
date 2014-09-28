@@ -1,0 +1,9 @@
+c:\users\zahid_ju\documents\visual studio 2012\Projects\BankingProblem\BankingProblem\bin\Debug\BankingProblem.exe.config
+c:\users\zahid_ju\documents\visual studio 2012\Projects\BankingProblem\BankingProblem\bin\Debug\BankingProblem.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\BankingProblem\BankingProblem\bin\Debug\BankingProblem.pdb
+c:\users\zahid_ju\documents\visual studio 2012\Projects\BankingProblem\BankingProblem\obj\Debug\BankingProblem.csprojResolveAssemblyReference.cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\BankingProblem\BankingProblem\obj\Debug\BankingProblem.Properties.Resources.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\BankingProblem\BankingProblem\obj\Debug\BankingProblem.csproj.GenerateResource.Cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\BankingProblem\BankingProblem\obj\Debug\BankingProblem.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\BankingProblem\BankingProblem\obj\Debug\BankingProblem.pdb
+C:\Users\zahid_ju\documents\visual studio 2012\Projects\BankingProblem\BankingProblem\obj\Debug\BankingProblem.BankingProblemForm.resources
